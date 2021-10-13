@@ -1,2 +1,3 @@
 This is line 1 in my 1st file
 This is line 2 in my 1st file
+This line3
